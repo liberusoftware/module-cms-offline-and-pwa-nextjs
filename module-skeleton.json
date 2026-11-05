@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-offline-and-pwa-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-offline-and-pwa",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-offline-and-pwa-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/offline-and-pwa.md",
+  "presentationPlan": "projects/cms/nextjs/offline-and-pwa.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
